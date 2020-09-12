@@ -1,6 +1,6 @@
 # RTETRACE
 Simple powershell script and exe for running sustained tracerts on multiple hosts. 
-I made this for a very specific scenario.
+I made this for a very specific scenario in 5 minutes, so you may look at this and think it's useless and sloppy, and you'd be right.
 
 
 
