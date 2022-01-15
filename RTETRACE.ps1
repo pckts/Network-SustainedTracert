@@ -1,7 +1,6 @@
 ﻿$banner = {
 clear-host
 write-host "";
-write-host "                               " -BackGroundColor Black -NoNewLine; write-host "By Packet" -ForeGroundColor Red -BackGroundColor Black -NoNewLine; write-host "                              " -BackGroundColor Black
 write-host "  " -BackGroundColor Black -NoNewLine; write-host "██████╗ ████████╗███████╗████████╗██████╗  █████╗  ██████╗███████╗" -ForeGroundColor Darkyellow -BackGroundColor Black -NoNewLine; write-host "  " -BackGroundColor Black
 write-host "  " -BackGroundColor Black -NoNewLine; write-host "██╔══██╗╚══██╔══╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝" -ForeGroundColor Darkyellow -BackGroundColor Black -NoNewLine; write-host "  " -BackGroundColor Black
 write-host "  " -BackGroundColor Black -NoNewLine; write-host "██████╔╝   ██║   █████╗     ██║   ██████╔╝███████║██║     █████╗  " -ForeGroundColor Darkyellow -BackGroundColor Black -NoNewLine; write-host "  " -BackGroundColor Black
